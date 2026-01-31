@@ -1,6 +1,6 @@
 Project Overview
 
-This task is part of the CodeAlpha Data Science Internship.
+This task is part of the CodeAlpha Data Analyst Internship.
 The goal is to perform Exploratory Data Analysis (EDA) on a house price dataset to understand factors affecting property prices.
 EDA helps discover patterns, trends, relationships, and data quality issues before building predictive models.
 
